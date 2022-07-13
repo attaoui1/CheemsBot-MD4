@@ -54,17 +54,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['212770206722'] //ur owner number
+global.vcardowner = ['212674874107'] //ur owner number
 global.ownername = "𝒚 𝒂 𝒔 𝒔 𝒆 𝒏 🤺" //ur owner name
 global.ytname = "YT: yassine A6" //ur yt chanel name
 global.socialm = "Insta: 7x8.q_" //ur github or insta name
 global.location = "Morocco, Agadir" //ur location
 
 //bot bomdy 
-global.owner = ['212770206722']
+global.owner = ['212674874107']
 global.ownertag = '212770206722' //ur tag number
 global.botname = '𝐙  𝐄  𝐍  𝐗  1 🦦' //ur bot name
-global.linkz = "https://wa.me/+212770206722" //your theme url which will be displayed on whatsapp
+global.linkz = "https://wa.me/+212674874107" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/JmXUEkiDeL72hXAGDLFXI3" //ur website to be displayed
 global.botscript = 'Https://instagram.com/7x8.q_' //script link
 global.reactmoji = "😘" //ur menu react emoji
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['212770206722'] //ur premium numbers
+global.premium = ['212674874107'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
